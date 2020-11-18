@@ -1,0 +1,8 @@
+body{
+  max-width:1000px;
+  padding:20px;font-family:'Times New Roman', Times, serif;
+}
+div,main,header{
+    border:1px solid black;padding:5px;
+    margin-bottom: 10px;
+  }
